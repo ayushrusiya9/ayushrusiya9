@@ -59,8 +59,8 @@ Learning in public and improving daily through practice
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushrusiya9&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrusiya9&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushrusiya9&show_icons=true&theme=tokyonight" width="96%" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrusiya9&theme=tokyonight" width="48%" /> -->
 </p>
 
 <p align="center">
@@ -75,8 +75,29 @@ Learning in public and improving daily through practice
 <a href="https://github.com/ayushrusiya9/EduNexus-SmartCampus">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrusiya9&repo=EduNexus-SmartCampus&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/ayushrusiya9/shopora-django-ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrusiya9&repo=shopora-django-ecommerce&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
 <a href="https://github.com/ayushrusiya9/grocify-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrusiya9&repo=grocify-website&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ayushrusiya9/Echofy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrusiya9&repo=Echofy&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ayushrusiya9/FlyNow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrusiya9&repo=FlyNow&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ayushrusiya9/FixiTfast">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrusiya9&repo=FixiTfast&theme=tokyonight" />
 </a>
 </p>
 
