@@ -57,11 +57,11 @@ Learning in public and improving daily through practice
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayushrusiya9&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-<!-- 
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ayushrusiya9&show_icons=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrusiya9&theme=tokyonight" width="48%" />
-</p> -->
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrusiya9&layout=compact&theme=tokyonight" />
