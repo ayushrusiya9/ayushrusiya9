@@ -1,18 +1,19 @@
 <h1 align="center">Hi, I'm Ayush Rusiya 👋</h1>
 
 <p align="center">
-Backend-focused Web Developer | Django & DRF <br/>
-B.Tech CSE Student | Building real-world projects
+Backend-focused Web Developer (Django & DRF) with React for frontend <br/>
+B.Tech CSE Student • Building production-oriented web projects
+
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a backend-focused developer working primarily with **Python, Django, and Django REST Framework**.  
-I build complete web applications — from database design to REST APIs and frontend integration.
+I’m a backend-focused web developer working mainly with **Python, Django, and Django REST Framework**.  
+I design and build backend systems that handle authentication, database logic, and REST APIs, and integrate them with frontend interfaces (React).
 
-I prefer **learning by building**, not by tutorials alone.  
-Currently improving system design basics, backend architecture, and clean code practices.
+My focus is on writing **clean, maintainable backend code** and understanding how real-world web applications are structured.  
+Currently, I’m strengthening backend architecture concepts, API design, and problem-solving skills through hands-on projects.
 
 ---
 
