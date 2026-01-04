@@ -52,12 +52,6 @@ Here are some projects that best represent my current skill level:
 - Django models and views practice  
 🔗 Repo: https://github.com/ayushrusiya9/FlyNow
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushrusiya9&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
 
