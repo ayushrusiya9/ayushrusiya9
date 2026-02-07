@@ -1,75 +1,58 @@
-<h1 align="center">Hi, I'm Ayush Rusiya 👋</h1>
+# Hi, I'm Ayush Rusiya 👋
+**Backend Focused Web Developer | B.Tech CSE Student**
 
-<p align="center">
-Backend-focused Web Developer (Django & DRF) with React for frontend <br/>
-B.Tech CSE Student • Building production-oriented web projects
+I specialize in building scalable backend systems using **Python, Django, DRF**, with a strong foundation in **React** for creating seamless full stack experiences. My goal is to write clean, maintainable code that solves real world problems.
 
+---
+
+### Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (ES6+), SQL |
+| **Backend** | Django, Django REST Framework (DRF) |
+| **Frontend** | React.js, Tailwind CSS, Bootstrap, HTML, CSS |
+| **Databases** | MySQL, PostgreSQL, SQLite |
+| **Tools** | Git, GitHub, Postman, Docker (Learning) |
+| **Deployment** | Vercel, Render, PythonAnywhere |
+
+---
+
+### Featured Projects
+
+#### [EduNexus – Smart Campus Platform](https://github.com/ayushrusiya9/EduNexus-SmartCampus)
+*A robust backend system designed for campus management.*
+- **Key Features:** Role-based Access Control (RBAC), RESTful APIs for student/faculty data, and automated workflows.
+- **Tech:** Django, DRF, MYSQL, Bootstrap.
+
+#### [Shopora – E-commerce Engine](https://github.com/ayushrusiya9/shopora-django-ecommerce)
+*Scalable backend architecture for online retail.*
+- **Key Features:** Complex database schema for products/orders, cart logic, and secure authentication with payment gateway.
+- **Tech:** Python, Django, MySQL.
+
+#### [Grocify – Modern UI/UX](https://github.com/ayushrusiya9/grocify-website)
+*React-based frontend for a grocery delivery service.*
+- **Key Features:** Component-driven architecture and responsive design.
+- **Tech:** React.js, Tailwind CSS.
+
+#### [FlyNow – Flight Booking System](https://github.com/ayushrusiya9/FlyNow)
+*Frontend practice focused on high concurrency simulation.*
+- **Key Features:** Ticket booking algorithms and user profile management.
+- **Tech:** HTML, CSS, JavaScript.
+
+---
+
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/ayushrusiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushrusiya" height="30" width="40" /></a>
+<a href="https://x.com/ayush_rusiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush_rusiya" height="30" width="40" /></a>
+<a href="mailto:ayush.rusiya1@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" height="30" width="30" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I’m a backend-focused web developer working mainly with **Python, Django, and Django REST Framework**.  
-I design and build backend systems that handle authentication, database logic, and REST APIs, and integrate them with frontend interfaces (React).
-
-My focus is on writing **clean, maintainable backend code** and understanding how real-world web applications are structured.  
-Currently, I’m strengthening backend architecture concepts, API design, and problem-solving skills through hands-on projects.
-
----
-
-### 🛠️ Tech Stack
-- **Backend:** Python, Django, Django REST Framework  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Database:** SQL, MySQL  
-- **Tools:** Git, GitHub, Postman, VS Code  
-- **Deployment:** Vercel, Render, PythonAnywhere  
-
----
-
-### 🚀 Featured Projects
-Here are some projects that best represent my current skill level:
-
-#### 🔹 EduNexus – Smart Campus Platform
-- Django-based backend system for campus management
-- Role-based access and REST APIs
-- Focus on real-world backend workflows  
-🔗 Repo: https://github.com/ayushrusiya9/EduNexus-SmartCampus
-
-#### 🔹 Shopora – Django E-commerce Application
-- Product, cart, and order management
-- Backend-first architecture with Django
-- Authentication and database-driven logic  
-🔗 Repo: https://github.com/ayushrusiya9/shopora-django-ecommerce
-
-#### 🔹 Grocify – React Frontend Project
-- React-based grocery website UI
-- Component-driven structure
-- Focus on frontend fundamentals  
-🔗 Repo: https://github.com/ayushrusiya9/grocify-website
-
-#### 🔹 FlyNow – Flight Booking System (Practice Project)
-- Backend logic for bookings and users
-- Django models and views practice  
-🔗 Repo: https://github.com/ayushrusiya9/FlyNow
-
-
----
-
-### 🎯 Current Focus
-- Writing cleaner Django code
-- Improving API design with DRF
-- Strengthening DSA basics using Python
-- Preparing for backend developer roles
-
----
-
-### 🔗 Connect With Me
-- Email: ayushroosiya61@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ayushrusiya/  
-- X (Twitter): https://x.com/ayush_rusiya  
-
----
-
 <p align="center">
-⚠️ Always improving. Projects will evolve with better code and documentation.
+<i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
+<b>Building better systems, one commit at a time.</b>
 </p>
