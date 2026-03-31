@@ -82,8 +82,8 @@ I'm a **Software Developer** and **Computer Science Engineer** passionate about 
 ## 📊 GitHub Stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ayushrusiya9&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrusiya9&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+	<img src="https://github-readme-stats-fast.vercel.app/api?username=ayushrusiya9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" height="160" alt="GitHub Stats" />
+	<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayushrusiya9&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
