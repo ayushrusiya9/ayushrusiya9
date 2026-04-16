@@ -27,6 +27,7 @@ I'm a **Software Developer** and **Computer Science Engineer** passionate about 
 
 ## 🛠️ Tech Stack & Tools
 
+
 <p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
